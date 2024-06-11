@@ -14,6 +14,9 @@ public class Vehiculo {
 
     }
 
+    public Vehiculo(String patenteVehiculo) {
+    }
+
     public String getColor() {
         return color;
     }

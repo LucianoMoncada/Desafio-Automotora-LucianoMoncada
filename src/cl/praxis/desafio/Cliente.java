@@ -9,4 +9,6 @@ public class Cliente  extends Persona {
         this.edad = edad2;
     }
 
+    public Cliente(String nombreCliente, int edadCliente) {
+    }
 }
